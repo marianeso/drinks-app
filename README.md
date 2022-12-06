@@ -1,4 +1,4 @@
-# MOVIES APP
+# Drinks APP
 
 ## Ideia do aplicativo
 Criar um aplicativo para apresentar os principais drinks do mercado.
