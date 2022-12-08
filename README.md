@@ -3,6 +3,10 @@
 ## Ideia do aplicativo
 Criar um aplicativo para apresentar os principais drinks do mercado.
 
+
+https://user-images.githubusercontent.com/101711941/206420456-d3f11aab-6f94-4eca-ad29-73fc900079cc.mp4
+
+
 ## Principais Tecnologias
 * Swift e UIKit
 * Gerenciador de dependências:  Cocoapods
